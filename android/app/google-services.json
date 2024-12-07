@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993759657648",
+    "project_id": "dotted-element-273213",
+    "storage_bucket": "dotted-element-273213.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993759657648:android:8510e1d2060fe52a330575",
+        "android_client_info": {
+          "package_name": "com.avroy.locMate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-3F7EkxUaIedwOeqBoWZs-Vw7GAFh8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993759657648:android:bbdad022086b9956330575",
+        "android_client_info": {
+          "package_name": "com.avroy.loc_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP-3F7EkxUaIedwOeqBoWZs-Vw7GAFh8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

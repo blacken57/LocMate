@@ -1,4 +1,4 @@
-package com.example.loc_mate
+package com.avroy.loc_mate
 
 import io.flutter.embedding.android.FlutterActivity
 
